@@ -77,9 +77,7 @@ Backup of *.doc*
 *.fot
 *.cb
 *.cb2
-.*.lb
-
-## Intermediate documents:
+.*.lb ## Intermediate documents:
 *.dvi
 *.xdv
 *-converted-to.*
